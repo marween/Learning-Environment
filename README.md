@@ -12,7 +12,7 @@ Une geekette, prête a relever tous les défis. j'ai intégré une super équipe
 
 Une super maman, une super-héroine du code. Etre toujours à la hauteur de ce que l'on me demande et pourquoi pas une futur coach ;)
 
-!(https://cdn.pixabay.com/photo/2018/02/16/10/52/beverage-3157395_960_720.jpg)
+![Photo](https://cdn.pixabay.com/photo/2018/02/16/10/52/beverage-3157395_960_720.jpg "photo")
 
 
 
