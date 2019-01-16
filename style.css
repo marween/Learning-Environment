@@ -1,0 +1,23 @@
+body{
+	background-color: #FAE3D6;
+	margin:0 auto;
+
+}
+div, img{
+	margin: 0 auto;
+	width: 80%;
+}
+h1{
+	color: #2B7379;
+	text-align: center;
+	text-decoration: underline;
+}
+h2{
+	color: #6BBAB5;
+}
+.caption {
+	display: none;
+}
+p{
+	color: #112F3B;
+}
